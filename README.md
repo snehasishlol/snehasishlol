@@ -14,5 +14,11 @@ i've `3+ years` experience in building completely functional websites and web ap
 
 some of my fav animes include attack on titan, banana fish, oshi no ko and hell's paradise. you can find my watchlist [here](https://aniwatchtv.to/community/user/3163264/watch-list). i also read mangas and manhwas. i love the blue lock colored manga and the solo leveling manhwa. you can always drop a suggestion for me.
 
-i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), indie and r&b. my fav artists include the weeknd, arijit singh and juice wrld. i also (scream, cry) to taylor swift's songs. my fav indie artists include the nbhd, the 1975, lana del rey and tv girl. you can share with me some new artists and playlists too please :D
+i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), indie and r&b. my fav artists include the weeknd, arijit singh and juice wrld. i also (scream, cry) to taylor swift's songs. my fav indie artists include the nbhd, the 1975, lana del rey and tv girl.
+
+### 🧃 socials
+
+- [discord: @snehasish](https://discord.com/users/741292272661954651)
+- [twitter: @snehasishlol](https://x.com/snehasishlol)
+- [mail: snehasishcodes@gmail.com](mailto:snehasishcodes@gmail.com)
 
