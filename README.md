@@ -22,3 +22,6 @@ i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), 
 - [twitter: @snehasishlol](https://x.com/snehasishlol)
 - [mail: snehasishcodes@gmail.com](mailto:snehasishcodes@gmail.com)
 
+### 🎧 spotify
+
+![spotify activity](https://spotify-github-profile.vercel.app/api/view?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)
