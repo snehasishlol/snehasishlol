@@ -24,10 +24,6 @@ i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), 
 
 ![discord activity](https://lanyard.cnrad.dev/api/741292272661954651)
 
-### vscode
-
-![vscode activity](https://wakatime.com/share/@22430477-f60f-4af5-bb01-103c4714180a/6ebc6847-5978-47fe-8db0-dde5b21a7214.svg)
-
 ### 🧃 socials
 
 - [discord: @snehasish](https://discord.com/users/741292272661954651)
