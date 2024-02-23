@@ -16,12 +16,20 @@ some of my fav animes include attack on titan, banana fish, oshi no ko and hell'
 
 i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), indie and r&b. my fav artists include the weeknd, arijit singh and juice wrld. i also (scream, cry) to taylor swift's songs. my fav indie artists include the nbhd, the 1975, lana del rey and tv girl.
 
+### 🎧 spotify
+
+![spotify activity](https://spotify-github-profile.vercel.app/api/view?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)
+
+### discord 
+
+![discord activity](https://lanyard.cnrad.dev/api/741292272661954651)
+
+### vscode
+
+![vscode activity](https://wakatime.com/share/@22430477-f60f-4af5-bb01-103c4714180a/e5ca9f89-f6e4-49f2-b048-e7a1fd573803.svg)
+
 ### 🧃 socials
 
 - [discord: @snehasish](https://discord.com/users/741292272661954651)
 - [twitter: @snehasishlol](https://x.com/snehasishlol)
 - [mail: snehasishcodes@gmail.com](mailto:snehasishcodes@gmail.com)
-
-### 🎧 spotify
-
-![spotify activity](https://spotify-github-profile.vercel.app/api/view?uid=31momuam5cf3a6gdw6r47sdcs55q&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)
