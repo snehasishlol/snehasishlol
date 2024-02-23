@@ -26,7 +26,7 @@ i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), 
 
 ### vscode
 
-![vscode activity](https://wakatime.com/share/@22430477-f60f-4af5-bb01-103c4714180a/e5ca9f89-f6e4-49f2-b048-e7a1fd573803.svg)
+![vscode activity](https://wakatime.com/share/@22430477-f60f-4af5-bb01-103c4714180a/6ebc6847-5978-47fe-8db0-dde5b21a7214.svg)
 
 ### 🧃 socials
 
