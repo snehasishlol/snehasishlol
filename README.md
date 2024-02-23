@@ -9,3 +9,10 @@ i'm currently working on @xtfz which i started back in `december 2022`. however 
 ### 📈 experience
 
 i've `3+ years` experience in building completely functional websites and web apps (`PWAs` too). i use `nextjs`, `reactjs` paired with `chakra-ui`, `shadcn-ui`, `material-ui` or `tailwind-css` for frontend, while for the backend, i rely on `nodejs (js/ts)` in conjunction with `expressjs` to develop robust webservers and RESTful APIs.
+
+### 🌟 favs
+
+some of my fav animes include attack on titan, banana fish, oshi no ko and hell's paradise. you can find my watchlist [here](https://aniwatchtv.to/community/user/3163264/watch-list). i also read mangas and manhwas. i love the blue lock colored manga and the solo leveling manhwa. you can always drop a suggestion for me.
+
+i also enjoy music (any genre) but i mostly listen to pop (ind, jpop and kpop), indie and r&b. my fav artists include the weeknd, arijit singh and juice wrld. i also (scream, cry) to taylor swift's songs. my fav indie artists include the nbhd, the 1975, lana del rey and tv girl. you can share with me some new artists and playlists too please :D
+
