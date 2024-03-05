@@ -4,7 +4,7 @@ i'm a 17 y/o full-stack web developer from india, currently balancing high-schoo
 
 ### 📂 work
 
-i'm currently working on [@XTFZ](https://github.com/xtfz) which i started back in `december 2022`. however i have restarted the entire project again, to work on it in a complete different way. i spend most of my time coding for XTFZ. and sometimes i go off-work to build other side-projects. i am also handling some social-media accounts, of my own, as side-projects. so few hours of the day i spend writing scripts and editing for those. i still did not start contributing to any open-source projects, but i am deciding to start and learn it real soon.
+i'm currently working on [@PastelNine](https://github.com/pastelnine) (previously known as "XTFZ") which i started back in `december 2022`. however i have restarted the entire project again, to work on it in a complete different way. i spend most of my time coding for PastelNine. and sometimes i go off-work to build other side-projects. i am also handling some social-media accounts, of my own, as side-projects. so few hours of the day i spend writing scripts and editing for those. i still did not start contributing to any open-source projects, but i am deciding to start and learn it real soon.
 
 ### 📈 experience
 
