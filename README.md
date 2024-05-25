@@ -13,4 +13,4 @@ i'm a 17 y/o full-stack web & app developer based in india. i make some fun stuf
 
 - [view my anime watchlist](https://aml.snehasish.xyz/user/snehasish)
 - [discord: @snehasish](https://discord.com/users/741292272661954651)
-- [mail: snehasishcodes@gmail.com](mailto:snehasishcodes@gmail.com)
+- [mail](mailto:mail@snehasish.xyz)
