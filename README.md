@@ -10,7 +10,6 @@ i'm a 17 y/o full-stack web & app developer based in india. i make some fun stuf
 
 ![discord activity](https://lanyard.cnrad.dev/api/741292272661954651)
 
-### 🧃 
 
 - [view my anime watchlist](https://aml.snehasish.xyz/user/snehasish)
 - [discord: @snehasish](https://discord.com/users/741292272661954651)
